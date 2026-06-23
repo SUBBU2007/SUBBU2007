@@ -14,7 +14,7 @@
 
 Integrated M.Tech CSE @ VIT-AP University (2024–2029)
 
-I don't just follow tutorials — I understand why things work before I build them. Started with full-stack (Next.js, Node, MongoDB), now extending into ML. Currently grinding Dynamic Programming and Andrew Ng's ML Specialization side by side.
+I don't just follow tutorials - I understand why things work before I build them. Started with full-stack (Next.js, Node, MongoDB), now extending into ML. Currently grinding Dynamic Programming and Andrew Ng's ML Specialization side by side.
 
 ---
 
@@ -22,7 +22,7 @@ I don't just follow tutorials — I understand why things work before I build th
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**GitFolio**](https://github.com/SUBBU2007/github-portfolio) | GitHub portfolio generator — smart repo scoring, contribution heatmap, OG image gen, React Suspense streaming | Next.js 16, App Router, Tailwind |
+| [**GitFolio**](https://github.com/SUBBU2007/github-portfolio) | GitHub portfolio generator - smart repo scoring, contribution heatmap, OG image gen, React Suspense streaming | Next.js 16, App Router, Tailwind |
 | [**Evently**](https://github.com/SUBBU2007/Evently) | Full-stack event management platform with auth, payments, and file uploads | Next.js, Clerk, MongoDB, Stripe |
 
 ---
