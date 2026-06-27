@@ -31,23 +31,15 @@ I don't just follow tutorials - I understand why things work before I build them
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=java,python,js,ts&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark)](https://skillicons.dev)
 
 **Backend & DB**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,express&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -55,14 +47,14 @@ I don't just follow tutorials - I understand why things work before I build them
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SUBBU2007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBBU2007&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SUBBU2007&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBBU2007&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=SUBBU2007&theme=github-dark-blue&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=SUBBU2007&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9)
 
 </div>
 
